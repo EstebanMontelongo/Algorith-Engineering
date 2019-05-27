@@ -1,5 +1,5 @@
 # Project-4
-Project 4: marsh crossing
+Project 4: The Marsh Crossing Problem
 
 Group members:
 
