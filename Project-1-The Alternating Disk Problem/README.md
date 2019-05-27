@@ -1,5 +1,5 @@
-# project-1-skeleton
-Project 1: Implementing Algorithms
+# project-1
+Project 1: The Alternating Disk Problem
 
 Group members:
 
