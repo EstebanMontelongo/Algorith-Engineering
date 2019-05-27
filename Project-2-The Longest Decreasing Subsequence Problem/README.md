@@ -1,5 +1,6 @@
-# project-2-starter
-Project -2: decreasing subsequence problem
+# project-2
+Project-2: The Longest Decreasing Subsequence Problem
+
 Group members:
 
 David Luu david042691@csu.fullerton.edu
