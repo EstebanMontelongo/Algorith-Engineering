@@ -1,5 +1,5 @@
 # project-3
-Project 3: Cuckoo hashing
+Project 3: The Cuckoo Hashing Algorithm
 
 Group members:
 
